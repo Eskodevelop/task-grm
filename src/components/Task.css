@@ -1,0 +1,14 @@
+.table {
+  width: 60%;
+  justify-self: center;
+  /* margin-top: 80px; */
+  margin: 80px auto;
+}
+
+.open-btn {
+  width: 100px;
+  height: 45px;
+  border-radius: 10px;
+  background-color: lightgreen;
+  align-items: center;
+}
